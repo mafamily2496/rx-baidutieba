@@ -15,6 +15,8 @@
  	</prescription>
 	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tbadk.coreExtra.service.LocationReportService">
  	</prescription>
+	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tbadk.core.voice.service.MediaService">
+ 	</prescription>
 	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.PerformMonitorService">
  	</prescription>
 	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.install.PluginInstallerRetryService">
@@ -26,8 +28,6 @@
 	<prescription type="service" package="com.baidu.tieba" class="cn.jingling.motu.photowonder.PostStartupService">
  	</prescription>
 	<prescription type="service" package="com.baidu.tieba" class="com.baidu.android.pushservice.PushService">
- 	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.QuickPlayer.QuickMediaPlayerService">
  	</prescription>
 	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.pb.pb.main.ReaderPbService">
  	</prescription>
