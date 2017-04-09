@@ -1,166 +1,166 @@
 <prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tbadk.aladin.AladinServer">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.aladin.AladinServer">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.AsInstallService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.AsInstallService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.ClearTempService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.ClearTempService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.android.pushservice.CommandService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.android.pushservice.CommandService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.FatalErrorService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.FatalErrorService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.FileDownloader">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.FileDownloader">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tbadk.plugins.gameCenter.GameCenterDownloadService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.plugins.gameCenter.GameCenterDownloadService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tbadk.coreExtra.service.LocationReportService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.coreExtra.service.LocationReportService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tbadk.core.voice.service.MediaService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.core.voice.service.MediaService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.PerformMonitorService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.PerformMonitorService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.install.PluginInstallerRetryService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.install.PluginInstallerRetryService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.install.PluginInstallerService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.install.PluginInstallerService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.packageManager.pluginSettings.PluginSettingIOService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.packageManager.pluginSettings.PluginSettingIOService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="cn.jingling.motu.photowonder.PostStartupService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="cn.jingling.motu.photowonder.PostStartupService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.android.pushservice.PushService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.android.pushservice.PushService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.pb.pb.main.ReaderPbService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.pb.pb.main.ReaderPbService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.plugin.RemoteService1">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.plugin.RemoteService1">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.plugin.RemoteService2">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.plugin.RemoteService2">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy1">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy1">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy10">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy10">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy2">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy2">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy3">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy3">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy4">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy4">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy5">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy5">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy6">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy6">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy7">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy7">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy8">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy8">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy9">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.RemoteServiceProxy9">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.screenlocknotify.ScreenLockNotifyService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.screenlocknotify.ScreenLockNotifyService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.plugin.Service1">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.plugin.Service1">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.plugin.Service2">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.plugin.Service2">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy1">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy1">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy10">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy10">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy11">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy11">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy12">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy12">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy13">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy13">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy14">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy14">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy15">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy15">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy16">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy16">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy17">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy17">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy18">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy18">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy19">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy19">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy2">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy2">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy20">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy20">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy3">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy3">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy4">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy4">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy5">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy5">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy6">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy6">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy7">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy7">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy8">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy8">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ServiceProxy9">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ServiceProxy9">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.SyncLoginService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.SyncLoginService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.imageProblem.cdnOptimize.TbCDNTachometerService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.imageProblem.cdnOptimize.TbCDNTachometerService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.service.ThirdServiceProxy">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.service.ThirdServiceProxy">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.TiebaActiveService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.TiebaActiveService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.TiebaSyncService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.TiebaSyncService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.TiebaUpdateService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.TiebaUpdateService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.trafficStats.TrafficStatsService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.trafficStats.TrafficStatsService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.service.UpdateInfoService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.UpdateInfoService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.VideoCache.VideoCacheService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.VideoCache.VideoCacheService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.tieba.video.convert.VideoConvertService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.video.convert.VideoConvertService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.wallet.core.plugins.pluginmanager.WalletPluginService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.wallet.core.plugins.pluginmanager.WalletPluginService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.wallet.core.plugins.pluginproxy.WalletProxyIntentService">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.wallet.core.plugins.pluginproxy.WalletProxyIntentService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" class="com.baidu.location.f">
+	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.location.f">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tieba.tblauncher.alarmRemind.AlarmReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.tblauncher.alarmRemind.AlarmReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tieba.legoBusiness.homeExtra.interviewLiveSquare.AlarmReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.legoBusiness.homeExtra.interviewLiveSquare.AlarmReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tieba.yunpush.BaiduYunPushMessageReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.yunpush.BaiduYunPushMessageReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.adp.plugin.proxy.BroadcastReceiverProxy">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.proxy.BroadcastReceiverProxy">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tieba.service.ChangeSkinReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.ChangeSkinReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tbadk.download.DownloadReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.download.DownloadReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tbadk.plugins.gameCenter.GameCenterAppMonitorReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.plugins.gameCenter.GameCenterAppMonitorReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tbadk.plugins.gameCenter.GameCenterDownloadReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.plugins.gameCenter.GameCenterDownloadReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tieba.homepage.fragment.controller.HomePageAlarmReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.homepage.fragment.controller.HomePageAlarmReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tbadk.core.diskCache.ImagesInvalidReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.core.diskCache.ImagesInvalidReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tieba.legoBusiness.homeExtra.interviewLiveSquare.NotificationReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.legoBusiness.homeExtra.interviewLiveSquare.NotificationReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tbadk.commonReceiver.PackageChangedReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.commonReceiver.PackageChangedReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.android.pushservice.PushServiceReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.android.pushservice.PushServiceReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.android.pushservice.RegistrationReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.android.pushservice.RegistrationReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.sapi2.share.ShareReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.sapi2.share.ShareReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tieba.service.SignAlertReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.SignAlertReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tbadk.TiebaSocketReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tbadk.TiebaSocketReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.baidu.tieba" class="com.baidu.tieba.service.WebNativeReceiver">
+	<prescription type="broadcast" package="com.baidu.tieba" sender="any" class="com.baidu.tieba.service.WebNativeReceiver">
  	</prescription>
 </prescriptions>
