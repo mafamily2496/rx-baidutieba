@@ -21,8 +21,6 @@
  	</prescription>
 	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.install.PluginInstallerRetryService">
  	</prescription>
-	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.install.PluginInstallerService">
- 	</prescription>
 	<prescription type="service" package="com.baidu.tieba" sender="any" class="com.baidu.adp.plugin.packageManager.pluginSettings.PluginSettingIOService">
  	</prescription>
 	<prescription type="service" package="com.baidu.tieba" sender="any" class="cn.jingling.motu.photowonder.PostStartupService">
